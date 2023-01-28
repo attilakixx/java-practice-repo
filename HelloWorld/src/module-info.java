@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author attilakixx
+ *
+ */
+module HelloWorld {
+}
