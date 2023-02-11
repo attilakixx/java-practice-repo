@@ -3,8 +3,10 @@ package world.hello;
 public class Main {
 
     public static void main(String[] args) {
-        // TODO Auto-generated method stub
-        System.out.println("Hello World");
+
+        String hello = "Hello World!";
+        System.out.println(hello);
     }
 
 }
+
